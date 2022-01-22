@@ -1,4 +1,4 @@
-# granit_vbs
+# granit-vbs
 An example of running the Granit system functionality using a vbscript.
 
 The granit.vbs script allows you to remotely log into the Granit system on the selected database (eg GRANIT) and execute a sample method from the ScriptCom COM+ component. The method displays the Script Pascal language (Pascal fork) methods supported in a given version of ScriptCOM.
